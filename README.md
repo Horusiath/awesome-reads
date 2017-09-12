@@ -9,6 +9,8 @@ Collection of interesting materials about distributed systems and other CS domai
 - [Raft protocol](http://thesecretlivesofdata.com/raft/)
 - [ActOp: Optimizing Distributed Actor Systems for Dynamic Interactive Services](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/eurosys16loca_camera_ready-1.pdf)
 - [Transactions for Distributed Actors in the Cloud](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/EldeebBernstein-TransactionalActors-MSR-TR-1.pdf)
+- [Node-scoped logical clocks](http://haslab.uminho.pt/tome/files/dotteddb_srds.pdf)
+- [Dotted version vectors](http://basho.com/posts/technical/vector-clocks-revisited-part-2-dotted-version-vectors/)
 
 ## CRDTs
 
