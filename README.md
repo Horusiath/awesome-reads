@@ -1,2 +1,21 @@
 # awesome-reads
 Collection of interesting materials about distributed systems and other CS domains
+
+## Distributed systems
+
+- [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/~asdas/research/dsn02-SWIM.pdf) 
+- [Lifeguard: SWIM-ing with situational awareness](https://www.hashicorp.com/blog/making-gossip-more-robust-with-lifeguard/)
+- [Serf gossip protocol](https://www.serf.io/docs/internals/gossip.html)
+- [Raft protocol](http://thesecretlivesofdata.com/raft/)
+- [ActOp: Optimizing Distributed Actor Systems for Dynamic Interactive Services](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/eurosys16loca_camera_ready-1.pdf)
+- [Transactions for Distributed Actors in the Cloud](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/EldeebBernstein-TransactionalActors-MSR-TR-1.pdf)
+
+## CRDTs
+
+- [A comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/PDF/techreport.pdf)
+- [Delta-state replicated data types](https://arxiv.org/pdf/1603.01529.pdf)
+- [Making operation-based CRDTs operation-based](http://haslab.uminho.pt/ashoker/files/opbaseddais14.pdf)
+- [RAMP Made Easy: RAMP-Fast algorithm](http://rustyrazorblade.com/2015/11/ramp-made-easy/)
+- [RAMP Made Easy: RAMP-Slow algorithm](http://rustyrazorblade.com/2015/11/ramp-made-easy-part-2/)
+- [Cure: Transaction Protocol](https://pages.lip6.fr/Marc.Shapiro/papers/Cure-final-ICDCS16.pdf)
+- [Eventuate: reliable casual broadcast based on eventsourcing](http://rbmhtechnology.github.io/eventuate/architecture.html)
