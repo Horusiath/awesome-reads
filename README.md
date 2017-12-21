@@ -26,7 +26,7 @@ Collection of interesting materials about distributed systems and other CS domai
 
 - [A comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/PDF/techreport.pdf)
 - [Delta-state replicated data types](https://arxiv.org/pdf/1603.01529.pdf)
-- [Making operation-based CRDTs operation-based](http://haslab.uminho.pt/ashoker/files/opbaseddais14.pdf)
+- [Pure operation-based CRDTs](https://arxiv.org/pdf/1710.04469.pdf)
 - [Quotient filters](https://blog.acolyer.org/2017/08/08/a-general-purpose-counting-filter-making-every-bit-count/)
 
 ## Streaming
@@ -39,3 +39,4 @@ Collection of interesting materials about distributed systems and other CS domai
 
 - [Lock-free algorithms behind Kotlin coroutines](https://www.youtube.com/watch?v=W2dOOBN1OQI&feature=youtu.be)
 - [Scylla’s Approach to Improve Performance for CPU-bound workloads](http://www.scylladb.com/2017/07/06/scyllas-approach-improve-performance-cpu-bound-workloads/)
+- [Seastar tutorial for scheduling groups](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md#isolation-of-application-components)
