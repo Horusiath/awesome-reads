@@ -10,7 +10,7 @@ Collection of interesting materials about distributed systems and other CS domai
 - [Uber's Ringpop](https://eng.uber.com/ringpop-open-source-nodejs-library/)
 - [Rapid membership](https://www.usenix.org/system/files/conference/atc18/atc18-suresh.pdf)
 - [HyParView](https://speakerdeck.com/cmeiklejohn/hyparview-a-membership-protocol-for-reliable-gossip-based-broadcast)
-- [FireFlies: byzantine-tolerant membership and gossip](https://www.youtube.com/watch?v=KBZlN0izeiY)
+- [FireFlies: byzantine-tolerant membership and gossip](https://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/PR14Pavlovic.pdf)
 - [Raft consensus](http://thesecretlivesofdata.com/raft/)
 - [CASPaxos](https://arxiv.org/pdf/1802.07000.pdf)
 - [RAMP Made Easy: RAMP-Fast algorithm](http://rustyrazorblade.com/2015/11/ramp-made-easy/)
